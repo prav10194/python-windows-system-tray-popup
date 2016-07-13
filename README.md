@@ -18,7 +18,7 @@ SET PATH=%PATH%;C:\Python34\Scripts
 SET PATH=%PATH%;C:\Python34
 
 cd C:\path #path where pypiwin32-219-cp34-none-win32.whl is saved
-pip install wheel
+pip install pypiwin32-219-cp34-none-win32.whl
 ```
 Run Python using IDLE/cmd. Run following commands on IDLE/cmd- 
 
