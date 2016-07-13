@@ -11,8 +11,7 @@ Pre-requisites -
 Usage - 
 -------
 1. Save the script in your python folder. 
-2. Run Python using IDLE/cmd.
-3. Install pywin32. 
+2. Install pywin32. 
 
 ```cmd
 SET PATH=%PATH%;C:\Python34\Scripts
@@ -21,7 +20,7 @@ SET PATH=%PATH%;C:\Python34
 cd C:\path #path where pypiwin32-219-cp34-none-win32.whl is saved
 pip install wheel
 ```
-4. Run following commands - 
+Run Python using IDLE/cmd. Run following commands on IDLE/cmd- 
 
 ```Python
 import os
